@@ -7,7 +7,13 @@ function Home() {
       <Link to="/sobre">sobre</Link> <br/>
       <Link to="/contato">Contato</Link>
 
+
+      <Link to="/produto/1234">Acessar Produto 1234</Link>
+
+
     </div>
+
+
   );
 }
 
